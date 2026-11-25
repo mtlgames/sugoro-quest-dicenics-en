@@ -45,7 +45,7 @@ still shows Japanese.
 ## Building from source
 
 Needs Python 3.12+ with Pillow, [asar](https://github.com/RPGHacker/asar) in `tools/asar/`, the
-[translate-retro-game](https://github.com/minhnhattonthat/translate-retro-game) skill (Claude Code plugin, or set `SKILL`
+[translate-retro-game](https://github.com/mtlgames/translate-retro-game) skill (Claude Code plugin, or set `SKILL`
 to its directory) and your ROM at `rom/orig.sfc` (SHA-1 above; the build refuses any other dump, see `rom.sha1`).
 
 ```
